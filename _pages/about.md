@@ -10,7 +10,7 @@ Ariel OS is an operating system for secure, memory-safe, low-power Internet of T
 
 <br>
 <br>
-For academic citations, use this reference: E. Frank, K. Schleiser, R. Fouquet, K. Zandberg, C. Amsüss, E. Baccelli, *Ariel OS: An Embedded Rust Operating System for Networked Sensors & Multi-Core Microcontrollers*, in IEEE DCOSS-IoT, 2025. [PDF](https://arxiv.org/pdf/2504.19662).
+For academic citations, use this reference: E. Frank, K. Schleiser, R. Fouquet, K. Zandberg, C. Amsüss, E. Baccelli, *Ariel OS: An Embedded Rust Operating System for Networked Sensors & Multi-Core Microcontrollers*, in IEEE DCOSS-IoT, 2025. [[PDF](https://arxiv.org/pdf/2504.19662)].
 
 
 
