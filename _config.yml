@@ -21,24 +21,25 @@ avatar: /images/ariel-os-avatar-black.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email:
   facebook:
   flickr:
   github: ariel-os/ariel-os
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
-  rss: 
-  twitter: 
-  stackoverflow: 
+  rss:
+  twitter:
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  mastodon: floss.social/@ariel 
+  mastodon: floss.social/@ariel
+  matrix: "#ariel-os:matrix.org"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: UA-43339302-11
@@ -99,4 +100,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
