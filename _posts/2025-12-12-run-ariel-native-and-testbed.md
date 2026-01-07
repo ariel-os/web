@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No hardware? No problem!
+title: No Hardware? No Problem!
 categories: [Misc]
 ---
 
