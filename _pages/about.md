@@ -6,7 +6,7 @@ permalink: /about/
 
 <br>
 <br>
-Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). Ariel OS is implemented entirely in Rust. Ariel OS supports the main microcontroller hardware architectures (Cortex-M, RISC-V, ESP) popular boards from vendors such as Nordic, ST, Espressif and Raspberry Pi. Integrating the best of the available embedded Rust ecosystem, Ariel OS strives to provides a seamless, batteries-included experience for microcontroller firmware development. Check it out on [[Github](https://github.com/ariel-os/ariel-os)].
+Ariel OS is a free open source operating system for secure, memory-safe, low-power Internet of Things (IoT). Ariel OS is implemented entirely in Rust. Ariel OS supports the main microcontroller hardware architectures (Cortex-M, RISC-V, ESP) popular boards from vendors such as Nordic, ST, Espressif and Raspberry Pi. Integrating the best of the available embedded Rust ecosystem, Ariel OS strives to provides a seamless, batteries-included experience for microcontroller firmware development. Check it out on [[Github](https://github.com/ariel-os/ariel-os)].
 
 <br>
 <br>
